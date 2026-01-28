@@ -47,14 +47,54 @@ Below is a **sample of the sales data** used in this project:
 1. Make sure **Python 3** is installed *(Pydroid 3 works on Android)*  
 
 2. Install required packages:
+
 ```bash
 pip install pandas matplotlib seaborn
+```
 
-
-## Run the Analysis Script
-After installing the packages, run the Python script to generate your outputs:
+3. Run the analysis script:
 
 ```bash
 python scripts/analyze_sales.py
+```
+
+4. Open the `output/` folder to view the generated charts and summary report.
+- `monthly_income.png` ✅
+- `service_breakdown.png` ✅
+- `summary_report.txt` ✅
 
 
+## Requirements
+- Python 3
+- pandas
+- matplotlib
+- seaborn
+
+---
+
+## Outputs
+The script generates the following files in the `output/` folder:
+- monthly_income.png ✅
+- service_breakdown.png ✅
+- summary_report.txt ✅
+These files can be viewed directly on GitHub or downloaded.
+
+## Visualizations
+
+### Monthly Income
+![Monthly Income](output/monthly_income.png)
+
+### Revenue Breakdown by Service
+![Service Breakdown](output/service_breakdown.png)
+
+## Summary
+This project provides insights into SkaiBaby’s sales performance across different services.  
+The generated charts and summary report make it easy to:
+- Track monthly income trends
+- Compare revenue between services
+- Make informed business decisions based on data
+
+The analysis focuses on Fatcakes, Printing & Internet, Chess Lessons, and House Calls, helping SkaiBaby optimize operations and improve profitability.
+
+## License
+MIT License
