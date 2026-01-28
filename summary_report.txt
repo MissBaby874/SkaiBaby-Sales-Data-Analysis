@@ -1,0 +1,14 @@
+SkaiBaby Sales Summary Report
+============================
+
+Monthly Income:
+  month  amount
+2025-01    2670
+2025-02    3050
+
+Revenue per Service:
+            service  amount
+      Chess Lessons     670
+           Fatcakes    3600
+        House Calls    1050
+Printing & Internet     400
