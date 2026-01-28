@@ -82,10 +82,10 @@ These files can be viewed directly on GitHub or downloaded.
 ## Visualizations
 
 ### Monthly Income
-![Monthly Income](output/monthly_income.png)
+![Monthly Income](https://github.com/MissBaby874/SkaiBaby-Sales-Data-Analysis/blob/main/output/monthly_income.png)
 
 ### Revenue Breakdown by Service
-![Service Breakdown](output/service_breakdown.png)
+![Service Breakdown](https://github.com/MissBaby874/SkaiBaby-Sales-Data-Analysis/blob/main/output/service_breakdown.png)
 
 ## Summary
 This project provides insights into SkaiBaby’s sales performance across different services.  
